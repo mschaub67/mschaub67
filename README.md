@@ -3,7 +3,7 @@
 # Michael Schaub
 
 
-I am a researcher interested in population dynamics, demographic modelling, capture-recapture methods, integrated population models, and conservation biology.
+I am a researcher at the Swiss Ornithological Institute interested in population dynamics, demographic modelling, integrated population models (IPM), and conservation biology.
 
 ## Links
 
@@ -15,10 +15,3 @@ I am a researcher interested in population dynamics, demographic modelling, capt
 
 🏛 [Vogelwarte](https://www.vogelwarte.ch/en/team/michael-schaub/)
 
-
-## Research interests
-
-- Population Ecology
-- Integrated Population Models (IPM)
-- Birds
-- Conservation Biology
