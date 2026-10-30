@@ -12,5 +12,5 @@ I am a researcher at the Swiss Ornithological Institute interested in population
 
 🆔 [ORCID](https://orcid.org/0000-0003-2745-0557)
 
-🏛 [Vogelwarte](https://www.vogelwarte.ch/en/team/michael-schaub/)
+🏛 [Vogelwarte](https://www.vogelwarte.ch/en/)
 
