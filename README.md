@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**mschaub67/mschaub67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Michael Schaub
 
-Here are some ideas to get you started:
+Population Ecology • Demographic Modelling • Capture-Recapture • Bayesian Methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a researcher interested in population dynamics, demographic modelling, capture-recapture methods, integrated population models, and conservation biology.
+
+## Links
+
+🌐 [Personal Website](https://mschaub67.github.io/)
+
+📚 [PASTE_SCHOLAR_LINK_HERE](https://scholar.google.com/citations?user=84qImyQAAAAJ&hl=en)
+
+🆔 [PASTE_ORCID_LINK_HERE](https://orcid.org/0000-0003-2745-0557)
+
+🏛 [PASTE_INSTITUTE_LINK_HERE](https://www.vogelwarte.ch/en/team/michael-schaub/)
