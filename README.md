@@ -19,7 +19,7 @@ I am a researcher interested in population dynamics, demographic modelling, capt
 
 ## Research interests
 
-- Population ecology
-- Integrated population models
+- Population Ecology
+- Integrated Population Models (IPM)
 - Birds
-- Conservation biology
+- Conservation Biology
