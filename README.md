@@ -2,7 +2,6 @@
 
 # Michael Schaub
 
-Population Ecology • Demographic Modelling • Capture-Recapture • Bayesian Methods
 
 I am a researcher interested in population dynamics, demographic modelling, capture-recapture methods, integrated population models, and conservation biology.
 
