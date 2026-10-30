@@ -15,3 +15,11 @@ I am a researcher interested in population dynamics, demographic modelling, capt
 🆔 [ORCID](https://orcid.org/0000-0003-2745-0557)
 
 🏛 [Vogelwarte](https://www.vogelwarte.ch/en/team/michael-schaub/)
+
+
+## Research interests
+
+- Population ecology
+- Integrated population models
+- Birds
+- Conservation biology
